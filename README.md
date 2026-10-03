@@ -15,11 +15,6 @@ Sistema bancário desenvolvido em **Java** com integração ao **MySQL**, permit
 - MySQL Connector/J
 - Git e GitHub
 
----
-
-## 📁 Estrutura do projeto
-
-
 
 
 
